@@ -6,8 +6,8 @@
 }
 
 .game-area {
-    position: absolute;   /*重要的一步是設定絕對定位*/
-    margin:auto;          /*將四周邊距都設為auto自動*/
-    left: 0;              /*離包含元素的距離均設為零*/
+    position: absolute;   
+    margin:auto;          
+    left: 0;              
     right: 0;
 }
